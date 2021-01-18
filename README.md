@@ -1,4 +1,4 @@
 # my-app 
 - changed
 - Checking on rebase
-- added locally
+- added locally and some text
